@@ -1,1 +1,1 @@
-# My-Python-Learnings
+# My-First-Python-Exercise
